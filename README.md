@@ -35,6 +35,3 @@ To view and run this project locally, follow these simple steps:
 3.  **Enjoy the Website**: You can now navigate through all the available pages and experience the website's design.
 
 ---
-
-**Courses Page**
-*[Insert a screenshot of your courses page here]*
